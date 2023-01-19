@@ -10,13 +10,17 @@
 		"tab.activeBackground": "#545454",
 		"welcomePage.background": "#dc8d10",
 		"welcomePage.tileBackground": "#ff7300",
-		"welcomePage.tileHoverBackground": "#ff0000",
+		"welcomePage.tileHoverBackground": "#ff5100",
 		"welcomePage.progress.foreground": "#ffb700",
-		"textLink.foreground": "#3564ff",
+		"textLink.foreground": "#1c50f8",
 		"textLink.activeForeground": "#0048ff",
 		"foreground": "#fdfdfd",
 		"disabledForeground": "#ff0000",
-		"descriptionForeground": "#ededed"
+		"descriptionForeground": "#ededed",
+		"statusBar.debuggingBackground": "#c9921b",
+		"statusBar.noFolderBackground": "#970d0d",
+		"statusBar.background": "#2e5ddb",
+		"activityBar.activeBackground": "#ff7300",
 	},
 	"tokenColors": [
 		{

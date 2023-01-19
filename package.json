@@ -2,8 +2,12 @@
   "name": "blazing-wheels",
   "displayName": "Blazing Wheels",
   "publisher": "JoelSprouse",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/14sprouj/blazing-wheels-vs-theme"
+  },
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
